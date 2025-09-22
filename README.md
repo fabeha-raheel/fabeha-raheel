@@ -63,6 +63,14 @@ I once programmed a **robotic drone** to perform a synchronized dance routine wi
     Python & C++
     Machine Learning & Computer Vision (TensorFlow, OpenCV, YOLO)
     Embedded Systems (Arduino, Raspberry Pi)
+
+    # Short Elevator Pitch (you can use for networking events):
+    
+I’m Fabeha Raheel, a robotics and AI researcher with a strong background in Mechatronics Engineering. My passion lies in building intelligent machines that can learn, adapt, and collaborate—whether it’s quadruped robots, UAV swarms, or autonomous ground systems.
+
+I specialize in ROS 2, autonomous navigation, SLAM, and AI techniques like Deep Reinforcement Learning, Generative AI, and Agentic AI. Over the past few years, I’ve led and delivered several complex robotics projects under tight deadlines, from concept all the way to successful deployment for industry clients—gaining not just technical depth but also leadership and project management experience.
+
+At my core, I’m driven by curiosity, collaboration, and the vision of shaping autonomous systems that can make a real impact on the world.
 --->
 
 <!---
